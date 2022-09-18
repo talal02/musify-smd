@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black"
+    android:weightSum="1"
+    tools:context=".MainActivity">
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       >
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical"
+           >
+
+           <Button
+               android:id="@+id/screen1"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 1"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen2"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 2"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen3"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 3"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen4"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 4"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen5"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 5 + 6 + 8"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen7"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 7"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen9"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 9"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen10"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 10"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen11"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 11 + 12 + 13 + 14"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen15"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 15"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen16"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 16 + 17"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen18"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 18"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen19"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 19"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen20"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 20"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen21"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 21"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen22"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 22"
+               android:background="@drawable/rounded_btn_2"
+               />
+           <Button
+               android:id="@+id/screen23"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:layout_margin="15dp"
+               android:textColor="@color/white"
+               android:textSize="20dp"
+               android:text="Screen 23"
+               android:background="@drawable/rounded_btn_2"
+               />
+
+       </LinearLayout>
+
+   </ScrollView>
+
+</LinearLayout>
